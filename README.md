@@ -13,3 +13,6 @@
 ### Game-5: Space War  <a href="https://github.com/emineksknc/Game-Programming-with-Python/tree/master/space_war" target="_blank">[Code]</a> <a href="https://www.youtube.com/watch?v=wxentE02egc&list=PLHGdkFeAmvLE6QNVqADKPRGp6_Yh9BZLH&index=14" target="_blank">[Reference]</a>
 
 ### Game-6: Flappy Bird  <a href="https://github.com/emineksknc/Game-Programming-with-Python/tree/master/flappy_bird" target="_blank">[Code]</a> <a href="https://www.youtube.com/watch?v=e33B9nUr7dI&list=PLHGdkFeAmvLE6QNVqADKPRGp6_Yh9BZLH&index=15" target="_blank">[Reference]</a>
+
+### Game-7: Car Race  <a href="https://github.com/emineksknc/Game-Programming-with-Python/tree/master/car_race" target="_blank">[Code]</a> <a href="https://www.youtube.com/watch?v=cyWJEyT-pkA&list=PLHGdkFeAmvLE6QNVqADKPRGp6_Yh9BZLH&index=19" target="_blank">[Reference]</a>
+
