@@ -127,8 +127,8 @@ while True:
             targets.pop(targets.index(target))
             playsound('./files/explotion.wav', False)
         if target.ycor() < -270 or target.distance(gamer) < 20:
-            score.write('Maalesef Kaybettiniz!', align='center', font=('courier', 24, 'bold'))
+            score.write('GAME OVER', align='center', font=('courier', 24, 'bold'))
             playsound('./files/gameover.wav')
 
     if len(targets) == 0:
-        score.write('Tebrikler Kazandınız!', align='center', font=('courier', 24, 'bold'))
+        score.write('CONGRATULATIONS!', align='center', font=('courier', 24, 'bold'))
