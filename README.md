@@ -1,9 +1,14 @@
 # Game-Programming-with-Python
 
-<table>
+<style>
+  .tb { border-collapse: collapse; }
+  .tb th, .tb td { padding: 5px; border: solid 1px #777; width: 200px;}
+</style>
+
+<table  class="tb" style="width:300%;">
   <tr>
     <th>ID</th>
-    <th>Game Name</th>
+    <th >Game Name</th>
     <th></th>
     <th></th>
   </tr>
@@ -61,3 +66,4 @@
   </tr>
 
 </table>
+
